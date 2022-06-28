@@ -37,7 +37,7 @@ Contributions, issues, and feature requests are welcome!
 
 To get a local copy follow these simple steps:
 
-- Copy this [link](git@github.com:Osoro254Alex/Hello-Microverse.git.)
+- Copy this [link](https://github.com/Osoro254Alex/Hello-Microverse.git)
 
 - Create a local directory that you want to clone the repository.
 
