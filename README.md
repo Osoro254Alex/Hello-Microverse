@@ -18,7 +18,7 @@
 
 ## Link to the live page
 
-> Feel free to check the [Portfolio-link]().
+> Feel free to check the []().
 
 ## Authors
 
