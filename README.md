@@ -1,12 +1,9 @@
-# Project: Hello World
+# Project: Hello Microverse
 
-> For the second milestone in building your portfolio website,
-> you will create the mobile website section where you will list your portfolio projects.
+> For the firtst milestone in building your hello microverse.
 
 > set up a new repository and prepare it for development using best practices (e.g. linters).
-> build the 3 sections of the mobile website using the template you chose in the previous step.
 
-> This project is about setting up a mobile version
 
 # Screenshot
 
