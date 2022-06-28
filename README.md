@@ -22,7 +22,7 @@
 👤 **Alex Ogeto**
 
 - GitHub: [@alex_ogeto](https://github.com/Osoro254Alex)
-
+-LinkedIN:[@Osoro254Alex](https://www.linkedin.com/feed/)
 ## Collaborators
 
 
@@ -35,17 +35,9 @@ Contributions, issues, and feature requests are welcome!
 To get a local copy follow these simple steps:
 
 - Copy this [link](https://github.com/Osoro254Alex/Hello-Microverse.git)
-
-- Create a local directory that you want to clone the repository.
-
-- Open the command prompt in the created directory.
-
-- On the terminal run this command git clone 
-
-- Go to the repository folder using command prompt cd Hello Microverse.
-
-- Install the dev dependencies for linters run npm install.
-
+I built a branch feature.
+On branch feature I created a HTML file.
+Inserted linter on my HTML file 
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
