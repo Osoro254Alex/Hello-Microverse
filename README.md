@@ -1,4 +1,4 @@
-# Portfolio: Mobile & Desktop App
+# Project: Hello World
 
 > For the second milestone in building your portfolio website,
 > you will create the mobile website section where you will list your portfolio projects.
@@ -37,7 +37,7 @@ Contributions, issues, and feature requests are welcome!
 
 To get a local copy follow these simple steps:
 
-- Copy this link git@github.com:Osoro254Alex/Hello-Microverse.git.
+- Copy this [link](git@github.com:Osoro254Alex/Hello-Microverse.git.)
 
 - Create a local directory that you want to clone the repository.
 
@@ -45,7 +45,7 @@ To get a local copy follow these simple steps:
 
 - On the terminal run this command git clone 
 
-- Go to the repository folder using command prompt cd Portfolio-mobile-version.
+- Go to the repository folder using command prompt cd Hello Microverse.
 
 - Install the dev dependencies for linters run npm install.
 
