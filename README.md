@@ -35,9 +35,13 @@ Contributions, issues, and feature requests are welcome!
 To get a local copy follow these simple steps:
 
 - Copy this [link](https://github.com/Osoro254Alex/Hello-Microverse.git)
+
 - I built a branch feature.
+
 - On branch feature I created a HTML file.
+
 - Inserted linter on my HTML file 
+
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
