@@ -22,7 +22,7 @@
 👤 **Alex Ogeto**
 
 - GitHub: [@alex_ogeto](https://github.com/Osoro254Alex)
--LinkedIN:[@Osoro254Alex](https://www.linkedin.com/feed/)
+- LinkedIN:[@Osoro254Alex](https://www.linkedin.com/feed/)
 ## Collaborators
 
 
